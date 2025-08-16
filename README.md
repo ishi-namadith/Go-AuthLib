@@ -44,7 +44,7 @@ Auth-lib/
 ## Installation
 
 ```bash
-go get -u github.com/ishi-namadith/Go-AuthLib
+go get github.com/ishi-namadith/Go-AuthLib
 ```
 
 ---
