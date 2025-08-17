@@ -351,12 +351,6 @@ For issues and questions, please open an issue on the GitHub repository.
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Authors
 
 - Ishi Namadith
